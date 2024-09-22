@@ -16,6 +16,7 @@ MD5 OBTIDO: c850e1a34a6ed572e0758ccd9c615bda
 
 SHA256 e MD5 corretos
 
+---
 
 Frase 1: A FEI é uma instituição vinculada estatutariamente à Companhia de Jesus
 
@@ -29,6 +30,7 @@ MD5 OBTIDO: b710771da8d7521524f45233ea9bb9e1
 
 Ambos incorretos
 
+---
 
 Frase 2: Em 20 de janeiro de 1951 foi realizada a sessão solene da congregação para a Colação de Grau da primeira turma da Faculdade de Engenharia Industrial.
 
@@ -42,6 +44,7 @@ MD5 OBTIDO: 55748c2cb669a9d9508677cb914cb025
 
 SHA256 e MD5 corretos
 
+---
 
 Frase 3: A Capela Santo Inácio de Loyola foi construída no ano de 1978, em concreto aparente.
 
@@ -55,6 +58,7 @@ MD5 OBTIDO: f4a8a299fd4da2a5d70b374be2e48417
 
 Ambos incorretos
 
+---
 
 Frase 4: Tendo como função principal a promoção do aprimoramento profissional no campo administrativo e tecnológico, o IECAT (Instituto de Especialização em Ciências Administrativas e Tecnológicas) foi criado em 1982
 
@@ -68,6 +72,7 @@ MD5 OBTIDO: 1c4ecc238571333ae507f82ff6a5e9e4
 
 SHA256 e MD5 corretos
 
+---
 
 Frase 5: Dentro de uma proposta de integração e de agregação de competências, visando a excelência de seus cursos, as instituições FEI, FCI e ESAN foram transformadas no Centro Universitário da FEI no ano de 2002.
 
@@ -81,6 +86,7 @@ MD5 OBTIDO: 98420532cbf1be32a98be579f502cd72
 
 Ambos incorretos
 
+---
 
 Frase 6: O Centro Universitário da FEI passou a fazer parte do seleto grupo que produz ciência no Brasil, quando a CAPES aprovou o primeiro curso de Mestrado em Engenharia Elétrica em 2005.
 
@@ -94,6 +100,7 @@ MD5 OBTIDO: 2e20bfbece6fdc62de4c4bb80a77ba1f
 
 SHA256 e MD5 corretos
 
+---
 
 Frase 7: Em 2016 foi realizada a primeira edição do congresso de inovação - Megatendências 2050.
 
@@ -107,6 +114,7 @@ MD5 OBTIDO: 5cbf7c58bf9acd451c3bf1b48392a9e6
 
 SHA256 e MD5 corretos
 
+---
 
 Frase 8: Em 2012 o Centro Universitário FEI celebrou 70 anos de história e de excelência na inovação e na formação de mais de 50 mil profissionais altamente qualificados para o setor empresarial, entre Administradores, Engenheiros e Cientistas da Computação.
 
@@ -120,6 +128,7 @@ MD5 OBTIDO: a0a80cbc42bcd7b4b6ab317d0d2efa33
 
 SHA256 e MD5 corretos
 
+---
 
 Frase 9: Em 1999 iniciam-se as atividades da FCI (Faculdade de Informática), como o curso de Ciência da Computação.
 
